@@ -12,6 +12,7 @@ cask install appcleaner
 cask install bettertouchtool
 cask install calibre
 cask install copy
+cask install cyberduck
 cask install dash
 cask install disk-inventory-x
 cask install dropbox
@@ -21,6 +22,7 @@ cask install google-chrome
 cask install google-drive
 cask install google-plus-auto-backup
 cask install gpgtools
+cask install heroku-toolbelt
 cask install iexplorer
 cask install iterm2
 cask install karabiner
@@ -207,14 +209,22 @@ install zsh
 appstore Airmail
 appstore ATOKPad
 appstore Dash
+appstore DragonDrop
 appstore GarageBand
 appstore iMovie
 appstore iPhoto
 appstore Keynote
+appstore LINE
+appstore Memory Clean
+appstore Microsoft Remote Desktop
 appstore Numbers
-appstore Pages
+appstore OmniGraffle 5
+appstore Sight Control
 appstore Snap
 appstore TweetDeck
+appstore Twitter
+appstore Webcam Settings
+appstore Window Tidy
 appstore Witch
 appstore Wunderlist
 appstore Xcode
